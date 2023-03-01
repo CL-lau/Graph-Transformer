@@ -1,1 +1,1 @@
-# Graph-Transformer
+# Graph Transformer
